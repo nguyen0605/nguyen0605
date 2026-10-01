@@ -2,12 +2,13 @@
 <!-- HEADER SECTION (Phong cách repo innng)   -->
 <!-- ========================================= -->
 <div>
-  <!-- Ảnh minh họa nghệ thuật bên phải (Bạn có thể thay URL ảnh của bạn) -->
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/klee.png" width="28%" align="right" alt="Profile Character" style="border-radius: 12px; margin-left: 20px;" />
+  <!-- 1. Ảnh bên phải: Cách tốt nhất là tải ảnh bạn thích vào thư mục assets của repo này (ví dụ: ./assets/character.png) -->
+  <!-- Tạm thời dùng link ảnh nghệ thuật public ổn định để bạn thấy preview ngay -->
+  <img src="https://imgs.search.brave.com/JgjfhZzEcTvV1F1U06F4wsu4OF341-p1IZAT-OCOBxI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9odW5n/Z2lhY28uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI2LzAy/L2FuaC1nb2pvLTE0/LmpwZw" width="26%" align="right" alt="Profile Character" style="border-radius: 14px; margin-left: 15px;" />
 
-  <!-- Dòng chữ gõ tự động (Typing SVG) -->
+  <!-- 2. Dòng chữ gõ tự động (Đã mã hóa chuẩn tránh lỗi proxy GitHub) -->
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F5A97F&center=false&vCenter=true&multiline=true&repeat=true&width=550&height=90&lines=Hello+there!+👋;I'm+nguyen0605%2C+a+passionate+Developer+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F5A97F&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Hello+there!;I+am+nguyen0605;Passionate+Developer" alt="Typing SVG" />
   </a>
 
   <!-- Khung thông tin cá tính trong thẻ <pre> -->
@@ -19,8 +20,8 @@
   🐾 Pets: Cat lover 🐱 • Dog enthusiast 🐶
   </pre>
 
-  <!-- Mascot / Pixel GIF chuyển động mini -->
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/ferret.gif" width="50" alt="Pixel Art" />
+  <!-- Icon vẫy tay mini sinh động -->
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave" />
 </div>
 
 <br clear="both"/>
@@ -65,15 +66,15 @@
 *If you want to reach out to me about anything, be it some tech doubt, collaboration, or just to hangout and talk, feel free to ping me* 😃.
 
 <p align="left">
-  <a href="mailto:your_email@gmail.com" target="_blank">
+  <a href="mailto:vudangnguyen206@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/v%C5%A9-%C4%91%C4%83ng-nguy%C3%AAn-083806392/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://discord.com/users/YOUR_ID" target="_blank">
+  <a href="https://discord.com/users/dibu0605" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
