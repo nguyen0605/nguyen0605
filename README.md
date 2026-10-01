@@ -8,6 +8,7 @@
 
   <!-- 2. Dòng chữ gõ tự động (Đã mã hóa chuẩn tránh lỗi proxy GitHub) -->
   <a href="https://readme-typing-svg.demolab.com/demo/">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px" height="100px" alt="Wave" />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F5A97F&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Hello+there!;I+am+nguyen0605;Passionate+Developer" alt="Typing SVG" />
   </a>
 
@@ -21,7 +22,7 @@
   </pre>
 
   <!-- Icon vẫy tay mini sinh động -->
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave" />
+  
 </div>
 
 <br clear="both"/>
