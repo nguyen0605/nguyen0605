@@ -6,10 +6,10 @@
   <!-- Tạm thời dùng link ảnh nghệ thuật public ổn định để bạn thấy preview ngay -->
   <img src="https://imgs.search.brave.com/JgjfhZzEcTvV1F1U06F4wsu4OF341-p1IZAT-OCOBxI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9odW5n/Z2lhY28uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI2LzAy/L2FuaC1nb2pvLTE0/LmpwZw" width="26%" align="right" alt="Profile Character" style="border-radius: 14px; margin-left: 15px;" />
 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px" height="100px" alt="Wave" />
   <!-- 2. Dòng chữ gõ tự động (Đã mã hóa chuẩn tránh lỗi proxy GitHub) -->
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px" height="100px" alt="Wave" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F5A97F&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Hello+there!;I+am+nguyen0605;Passionate+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F5A97F&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=130&lines=Hello+there!;I+am+nguyen0605;Passionate+Developer" alt="Typing SVG" />
   </a>
 
   <!-- Khung thông tin cá tính trong thẻ <pre> -->
