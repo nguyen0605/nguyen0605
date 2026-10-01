@@ -2,12 +2,12 @@
 <!-- HEADER SECTION (Phong cách repo innng)   -->
 <!-- ========================================= -->
 <div>
-  <!-- Ảnh minh họa nghệ thuật bên phải (Bạn có thể thay bằng link ảnh của bạn) -->
-  <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="28%" align="right" alt="Profile Character" style="border-radius: 12px; margin-left: 20px;" />
+  <!-- Ảnh minh họa nghệ thuật bên phải (Bạn có thể thay URL ảnh của bạn) -->
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/klee.png" width="28%" align="right" alt="Profile Character" style="border-radius: 12px; margin-left: 20px;" />
 
   <!-- Dòng chữ gõ tự động (Typing SVG) -->
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F5A97F&center=false&vCenter=true&multiline=true&repeat=true&width=550&height=90&lines=Hello+there!+👋;I'm+dawnguyyn%2C+a+passionate+Developer+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F5A97F&center=false&vCenter=true&multiline=true&repeat=true&width=550&height=90&lines=Hello+there!+👋;I'm+nguyen0605%2C+a+passionate+Developer+✨" alt="Typing SVG" />
   </a>
 
   <!-- Khung thông tin cá tính trong thẻ <pre> -->
@@ -84,7 +84,7 @@
 <!-- GITHUB STATS SECTION                      -->
 <!-- ========================================= -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyen0605&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen0605&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="175" />
 </div>
